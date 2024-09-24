@@ -1,0 +1,71 @@
+{
+   "checksum": "124eca8d1532b99f89c167bc905a1d48",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13323808347711079",
+            "date_last_used": "0",
+            "guid": "d931c222-6274-42bf-91ce-a2208b832758",
+            "id": "6",
+            "name": "dsl-Assignment 3_BST.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Desktop/dsl-Assignment%203_BST.pdf"
+         }, {
+            "date_added": "13338235253681081",
+            "date_last_used": "0",
+            "guid": "a078bafc-6946-44dc-b1d3-e4836db0cb5b",
+            "id": "7",
+            "name": "insem paper.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Desktop/dbms/insem%20paper.pdf"
+         }, {
+            "date_added": "13339170471164627",
+            "date_last_used": "0",
+            "guid": "020a4381-b824-4257-bec7-8419f839eeda",
+            "id": "8",
+            "name": "4 page replacement writeup.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Desktop/spos%20assignments/4%20page%20replacement%20writeup.pdf"
+         }, {
+            "date_added": "13359823211270976",
+            "date_last_used": "0",
+            "guid": "2fb4ca64-f04d-4aa4-aad0-5688d30aec65",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fakes.Farzi.S01E01.Artist.2160p.AMZN.WEB-DL.DDP5.1.HEVC-Vegamovies.To.mkv",
+            "type": "url",
+            "url": "https://vcloud.lol/e17vji7eebtv1be?token=cy9Wa1plMVU3TlFzZTkyUklRSXFOa1pqd1BTR1U3cUtGZ1RvamRGRjNPST0="
+         } ],
+         "date_added": "13371590578138592",
+         "date_last_used": "0",
+         "date_modified": "13359823211270976",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13371590578138598",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13371590578138603",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

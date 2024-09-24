@@ -1,0 +1,87 @@
+{
+   "checksum": "7cd6022b41dc0fbd74bcb10274ab785c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13323808347711079",
+            "date_last_used": "0",
+            "guid": "d931c222-6274-42bf-91ce-a2208b832758",
+            "id": "6",
+            "name": "dsl-Assignment 3_BST.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Desktop/dsl-Assignment%203_BST.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13338235253681081",
+            "date_last_used": "0",
+            "guid": "a078bafc-6946-44dc-b1d3-e4836db0cb5b",
+            "id": "7",
+            "name": "insem paper.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Desktop/dbms/insem%20paper.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13339170471164627",
+            "date_last_used": "0",
+            "guid": "020a4381-b824-4257-bec7-8419f839eeda",
+            "id": "8",
+            "name": "4 page replacement writeup.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/DELL/Desktop/spos%20assignments/4%20page%20replacement%20writeup.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13359823211270976",
+            "date_last_used": "0",
+            "guid": "2fb4ca64-f04d-4aa4-aad0-5688d30aec65",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fakes.Farzi.S01E01.Artist.2160p.AMZN.WEB-DL.DDP5.1.HEVC-Vegamovies.To.mkv",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vcloud.lol/e17vji7eebtv1be?token=cy9Wa1plMVU3TlFzZTkyUklRSXFOa1pqd1BTR1U3cUtGZ1RvamRGRjNPST0=",
+            "visit_count": 0
+         } ],
+         "date_added": "13371590578138592",
+         "date_last_used": "0",
+         "date_modified": "13359823211270976",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13371590578138598",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13371590578138603",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCArgMSCSAQAAEgAqGDlrTDBJL3NWcFByMkdYY1dHT3BiMVE9PUgDoAYMEq0BCAkSqAEKHGJ1TmRCTmZGWFNLai9pSW01MnEzQ3EzSEsvUT0SJDJmYjRjYTY0LWYwNGQtNGFhNC1hYWQwLTU2ODhkMzBhZWM2NRgAIAAoADDuk63yhjI4zpmt8oYyQM6ZrfKGMkocMTc2ZllJRGhxeS9MeEdtZmZXYTUzUEttU2I4PVofIh3dNDlZS3l3cXdyOUJrVzJRT3ZHUXJoTFFXVE93PWUAAAAAwj4CYAUSrQEICBKoAQocTGZlL0grdWR5K09jTitiR2daOW43VG5LVjVVPRIkMDIwYTQzODEtYjgyNC00MjU3LWJlYzctODQxOWY4MzllZWRhGAAgACgAMJCt6Z6pMTierumeqTFAnq7pnqkxShxkQzQySzEyYWZEaElFU1RvMjU4YWJtKzlqaDA9Wh8iHbpPSmxGV0JFUEdwcFhaMXlwcFEyVkZpREpPUm89ZXdwbKPCPgJgBRKsAQgHEqcBChxwUVZ5TUxXUkQrR050SXQ2Wmtkbm5yYUtwbWs9EiRhMDc4YmFmYy02OTQ2LTQ0ZGMtYjFkMy1lNDgzNmRiMGNiNWIYACAAKAAwq4aE4qUxOMyIhOKlMUDMiITipTFKHEExWklLdjR1Vkw3V2tjNnh2aFdYUUgweVBOWT1aHiIcdWsyMnJGYlU4ZHdtYjIvYytPY3FsWDA2MGxJPWV3cGyjwj4CYAUSrAEIBhKnAQocc1hMR09lUGIrTlBudmsvOUhZYWM4bk1YeG40PRIkZDkzMWMyMjItNjI3NC00MmJmLTkxY2UtYTIyMDhiODMyNzU4GAAgACgAMJDxk4HwMDjP8ZOB8DBAz/GTgfAwShx6WUIxNHpLYnRxOWk5aXZBb2czbzZ2R2RaVE09Wh4iHDhMb09ibmFremVBWk1Vc2JHWDUxV2VDU3VGZz1ld3Bso8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDAxMjliNzBhLWZhN2MtNWE4NS1iM2FjLTcyOTBjZWFmZTY2NRgAIAAoADDm9rrEujA4pPq6xLowQKT6usS6MEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRjM2NiMDYyOS1lZGZkLTVhYmUtYTI5OC1jY2IwMTk4ZDg0ZmYYACAAKAAw5va6xLowOMP6usS6MEDD+rrEujBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNjQ5YWNmY2YtY2YwNi01M2JiLThlZTgtMWIyOTllZGMwMDUwGAAgACgAMOb2usS6MDjA+7rEujBAwPu6xLowShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
